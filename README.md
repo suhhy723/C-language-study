@@ -50,7 +50,7 @@ C/C++
 | 파일 | 내용 |
 |------|------|
 | ch01_practice1.c | 실습 1 |
-| ch01_exercise1.c | 연습문제 1 |
+
 
 </details>
 
