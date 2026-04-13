@@ -4,7 +4,7 @@
 「혼자 공부하는 C언어」 책을 바탕으로 공부한 내용과 코드 모음입니다.
 
 ## 🛠️ 사용 언어
-![C](https://img.shields.io/badge/C_Language-00599C?style=flat-square&logo=c&logoColor=white)
+C/C++
 
 ## 📅 시작일
 - 2026년 4월
