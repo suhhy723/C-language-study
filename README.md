@@ -86,14 +86,4 @@ int main(void) {
 
 ---
 
-## 🔗 참고 자료
-
-- [혼공 공식 유튜브](https://www.youtube.com/@HonGong)
-- [C언어 레퍼런스](https://en.cppreference.com/w/c)
-
----
-
-<p align="center">
-  📖 꾸준히, 천천히, 확실하게!
-</p>
 
